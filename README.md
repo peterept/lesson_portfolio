@@ -7,3 +7,7 @@ I love VR
 
 C++, C#
 
+# Hobbies
+
+Biking
+
