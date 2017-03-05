@@ -7,8 +7,11 @@ I love VR
 
 C++, C#
 
-
 ## Projects
 
 VR DAY
+
+# Hobbies
+
+Biking
 
